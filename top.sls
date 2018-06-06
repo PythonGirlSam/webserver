@@ -1,5 +1,5 @@
 '*':
-
+  - users
 'web*':
-  - tomcat
+  - apache
 
