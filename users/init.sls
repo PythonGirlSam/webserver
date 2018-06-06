@@ -20,7 +20,6 @@ add_user_sam:
     - fullname: Saumya Gupta
     - home: /home/sam
     - shell: /bin/bash
-    - gid_from_name: True
     - remove_groups: False
     - password: swift09
     - groups:
